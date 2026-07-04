@@ -53,7 +53,8 @@ This dashboard helps HR teams understand employee attrition patterns by analyzin
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+> *(<img width="1004" height="602" alt="HR Dashboard" src="https://github.com/user-attachments/assets/6191fe18-8605-4fd1-a0cc-4c0b9e4e6135" />
+)*
 
 ![HR Analytics Dashboard](HR Dashboard.png)
 
@@ -72,7 +73,7 @@ This dashboard helps HR teams understand employee attrition patterns by analyzin
 
 **Jayesh Sayankar**
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
+- 💼 LinkedIn: https://www.linkedin.com/in/jayesh-sayankar-750a84182/
 - 💻 GitHub: https://github.com/jayesh-gif-wq
 
 ---
